@@ -1,0 +1,2 @@
+# coinframe
+Backtesting for cryptocurrencies
